@@ -1,0 +1,7 @@
+build/
+pyPQevalAudioBasic.egg-info/
+*.o
+AFsp-v9r0/lib/
+AFsp-v9r0/bin/
+tmp
+venv/
